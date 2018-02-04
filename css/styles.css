@@ -1,0 +1,9 @@
+.fondo {
+    background-color: #cceeff;
+}
+.botones{
+    background-color: #cccccc;
+}
+.botones:hover{
+    background-color: #dad8d8;
+}
